@@ -63,6 +63,6 @@ Building full-stack software, integrating AI agents, and working with APIs, geos
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/raghad-altuwayjiri-b794a540b)
 - **Email:** [rghd.altwj@gmail.com](mailto:rghd.altwj@gmail.com)
 - **Portfolio source code:** [raghad-portfolio](https://github.com/rghd-tw/raghad-portfolio)
-- **Portfolio website:** URL to be added
+- **Portfolio website:** (https://raghad-portfolio-ivory.vercel.app/)
 
 ---
